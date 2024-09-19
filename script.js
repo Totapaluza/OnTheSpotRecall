@@ -3,7 +3,7 @@ const data = [
     { agent: 'Nitrous Oxide', values: [0.47, 1.4, 2.3, 38770, 104, 0.6, '', 0.004] },
     { agent: 'Desflurane', values: [0.45, 19, 27.2, 669, 6.6, '0.3-0.4', 1.3, 0.02] },
     { agent: 'Sevoflurane', values: [0.65, 47, 47.5, 157, 2, '0.3-0.4', 2.2, '2-5'] },
-    { agent: 'Isoflurane', values: [1.46, 91, 45, 238, 1.17, '0.3-0.4', 1.3, 0.2] },
+    { agent: 'Isoflurane', values: [1.46, 91, 45, 238, 1.1, '0.3-0.4', 1.3, 0.2] },
     { agent: 'Halothane', values: [2.54, 224, 51.1, 243, 0.75, 0.5, '', '15-20'] }
 ];
 
